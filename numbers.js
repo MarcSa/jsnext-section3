@@ -3,8 +3,8 @@ let dogYears        =   (age + 1) / 7
 
 console.log(dogYears)
 
-let studentScore    =   15
-let maxScore        =   27
+let studentScore    =   18
+let maxScore        =   20
 let percent         =   studentScore / maxScore * 100
 
-console.log( percent + "%" )
+console.log( `${percent}%` )
