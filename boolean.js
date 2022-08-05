@@ -12,7 +12,6 @@ let age             =   3
 if (age <= 7) {
     console.log(`It's under 7`)
 }
-
 if (age >= 65) {
     console.log(`It's over 65`)
 }
